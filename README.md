@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+
+Now this repository is integrated with Azure Pipeline. The commit on this repo will trigger the Azure pipeline build automatically
